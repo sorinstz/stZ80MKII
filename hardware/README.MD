@@ -2,7 +2,8 @@
 
 **A real Z80, Amstrad CPC 464/6128 compatibility, and an FPGA platform for future cores such as the ZX Spectrum.**
 
-The stZ80 MKII uses a physical Z80 CPU and a reprogrammable FPGA for video, memory banking, bus control, and peripherals. The board design stays fixed so FPGA improvements can run on boards people have already built.
+The stZ80 MKII uses a physical Z80 CPU and a reprogrammable FPGA for video, memory banking, bus control, and peripherals. 
+The board design stays fixed so FPGA improvements can run on boards people have already built.
 
 ## Hardware:
 
@@ -16,7 +17,7 @@ The stZ80 MKII uses a physical Z80 CPU and a reprogrammable FPGA for video, memo
 
         +-------------------+   +---------------+   +------------------+    
         |   Power Supply    |   |               |   |  LED Indicator   |    
-	      |      ( +5V )      |-->|               |-->| (Status output)  |
+	    |      ( +5V )      |-->|               |-->| (Status output)  |
         +-------------------+   |               |   +------------------+
         +-------------------+   |               |   +------------------+
         |     Keyboard      |-->|               |-->|     Monitor      |
