@@ -26,7 +26,7 @@ The board design stays fixed so FPGA improvements can run on boards people have 
         +-------------------+   |               |   +------------------+
         |    Joystick       |-->|               |-->|     Speaker      |
         |     (9pin)        |   |               |   |   (Audio Out)    |
-        +-------------------+   |    stZ80 MKII     +------------------+
+        +-------------------+   |   stZ80 MKII  |   +------------------+
         +-------------------+   |               |   +------------------+
         |  Power Switch     |-->|               |<->|  CF Card Storage |
         | (On/Off Control)  |   |               |   |   (CompactFlash) |
