@@ -1,6 +1,6 @@
 # stZ80 MKII
 
-**A real Z80, Amstrad CPC compatibility, and room for the ZX Spectrum and beyond.**
+**A real Z80, Amstrad CPC compatible, and room for the ZX Spectrum and beyond.**
 
 stZ80 MKII is an FPGA-based retrocomputing platform built around a real Zilog Z80 CPU.
 
